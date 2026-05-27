@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi 👋 I'm [Insert your name here]
 
-<!--
-**Zdislavoss/Zdislavoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Developer in progress  
+💻 Learning and building projects  
+📚 Always improving and exploring new technologies  
 
-Here are some ideas to get you started:
+## About me
+- 🌱 Currently learning: [Python / JavaScript / C#]
+- 🔨 Working on: Personal projects
+- 🎯 Goal: Improve my coding skills every day
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+💻 HTML • CSS • JavaScript  
+⚡ Python  
+🛠 Git / GitHub
+
+---
+Code • Learn • Build 🚀
