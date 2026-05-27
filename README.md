@@ -1,4 +1,4 @@
-# Hi 👋 I'm [Insert your name here]
+# Hi 👋 I'm [Insert your name here (chapes ne)]
 
 🚀 Developer in progress  
 💻 Learning and building projects  
