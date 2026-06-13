@@ -1,8 +1,11 @@
 # Hi, I'm Radek 👋
 
 🎓 IT student from Czech Republic
+
 💻 Interested in programming, Linux and cybersecurity
+
 ⚽ Football player
+
 🚀 Currently working on school and personal projects
 
 ## Technologies
