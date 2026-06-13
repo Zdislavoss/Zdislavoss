@@ -1,13 +1,29 @@
-# Hi 👋 I'm [Insert your name here (chapes ne)]
+# Hi, I'm Radek 👋
 
-🎓 2nd year high school student  
-💻 Learning programming  
-🚀 Building projects and improving my skills  
+🎓 IT student from Czech Republic
+💻 Interested in programming, Linux and cybersecurity
+⚽ Football player
+🚀 Currently working on school and personal projects
 
-## About me
-- 🌱 Currently learning new technologies
-- 🔨 Working on personal projects
-- 📚 Learning every day
+## Technologies
+
+- C#
+- SQL
+- HTML & CSS
+- JavaScript
+- Linux
+- Git & GitHub
+
+## Current Goals
+
+- Improve my C# skills
+- Learn more about backend development
+- Build better projects
+- Contribute to open source in the future
+
+## Contact
+
+📫 Email: rpavelka11@gmail.com
 
 ---
-Code • Learn • Build 🚀
+"Code, learn, improve."
