@@ -2,7 +2,7 @@
 
 🎓 IT student from Czech Republic
 
-💻 Interested in programming, Linux and cybersecurity
+💻 Interested in programming
 
 ⚽ Football player
 
